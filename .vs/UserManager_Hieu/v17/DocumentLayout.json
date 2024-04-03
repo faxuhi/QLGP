@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\CSharp\\UserManager_Hieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|k:\\csharp\\usermanager_hieu\\usermanager_hieu\\fusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|k:\\csharp\\usermanager_hieu\\usermanager_hieu\\fimportuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fimportuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|K:\\CSharp\\UserManager_Hieu\\usermanager_hieu\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|k:\\csharp\\usermanager_hieu\\dal\\models\\entities\\userett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\entities\\userett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|k:\\csharp\\usermanager_hieu\\usermanager_hieu\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|K:\\CSharp\\UserManager_Hieu\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|k:\\csharp\\usermanager_hieu\\usermanager_hieu\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|K:\\CSharp\\UserManager_Hieu\\usermanager_hieu\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|k:\\csharp\\usermanager_hieu\\dal\\models\\entityvalidator\\userentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\entityvalidator\\userentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|k:\\csharp\\usermanager_hieu\\dal\\models\\entities\\uservalidateett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\entities\\uservalidateett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC27ECE-2462-4492-ACF1-4A6DE163AED4}|BLL\\BLL.csproj|K:\\CSharp\\UserManager_Hieu\\bll\\rolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC27ECE-2462-4492-ACF1-4A6DE163AED4}|BLL\\BLL.csproj|solutionrelative:bll\\rolebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|k:\\csharp\\usermanager_hieu\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DC7055-1175-49EC-A7C0-63F4FD19F5D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|k:\\csharp\\usermanager_hieu\\usermanager_hieu\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC27ECE-2462-4492-ACF1-4A6DE163AED4}|BLL\\BLL.csproj|K:\\CSharp\\UserManager_Hieu\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC27ECE-2462-4492-ACF1-4A6DE163AED4}|BLL\\BLL.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|K:\\CSharp\\UserManager_Hieu\\usermanager_hieu\\fusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\fusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|K:\\CSharp\\UserManager_Hieu\\usermanager_hieu\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797C2F0-563A-406A-9823-C5C693AF3F7A}|UserManager_Hieu\\GUI.csproj|solutionrelative:usermanager_hieu\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fUsers.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUsers.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUsers.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUsers.cs",
+              "RelativeToolTip": "UserManager_Hieu\\fUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:00:45.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fImportUser.cs [Design]",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fImportUser.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fImportUser.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fImportUser.cs [Design]",
+              "RelativeToolTip": "UserManager_Hieu\\fImportUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:07:49.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fUserManager.cs [Design]",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUserManager.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUserManager.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUserManager.cs [Design]",
+              "RelativeToolTip": "UserManager_Hieu\\fUserManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:08:00.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDAL.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "DAL\\UserDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:05:21.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleBLL.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\BLL\\RoleBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\RoleBLL.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\BLL\\RoleBLL.cs",
+              "RelativeToolTip": "BLL\\RoleBLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:09:28.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fUser.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUser.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUser.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUser.cs",
+              "RelativeToolTip": "UserManager_Hieu\\fUser.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAiwIQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:17:18.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntityValidator.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\EntityValidator\\UserEntityValidator.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EntityValidator\\UserEntityValidator.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\EntityValidator\\UserEntityValidator.cs",
+              "RelativeToolTip": "DAL\\Models\\EntityValidator\\UserEntityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:26:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserValidateETT.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\Entities\\UserValidateETT.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Entities\\UserValidateETT.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\Entities\\UserValidateETT.cs",
+              "RelativeToolTip": "DAL\\Models\\Entities\\UserValidateETT.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:23:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fUser.cs [Design]",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUser.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUser.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUser.cs [Design]",
+              "RelativeToolTip": "UserManager_Hieu\\fUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:04:06.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fSignUp.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fSignUp.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fSignUp.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fSignUp.cs",
+              "RelativeToolTip": "UserManager_Hieu\\fSignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:16:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:22:58.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserETT.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\Entities\\UserETT.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Entities\\UserETT.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\DAL\\Models\\Entities\\UserETT.cs",
+              "RelativeToolTip": "DAL\\Models\\Entities\\UserETT.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:17:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fUsers.cs [Design]",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUsers.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUsers.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUsers.cs [Design]",
+              "RelativeToolTip": "UserManager_Hieu\\fUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:08:05.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fUserManager.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUserManager.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fUserManager.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fUserManager.cs",
+              "RelativeToolTip": "UserManager_Hieu\\fUserManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:53:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fLogin.cs",
+              "RelativeDocumentMoniker": "UserManager_Hieu\\fLogin.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\UserManager_Hieu\\fLogin.cs",
+              "RelativeToolTip": "UserManager_Hieu\\fLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:52:53.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "K:\\CSharp\\UserManager_Hieu\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
+              "ToolTip": "K:\\CSharp\\UserManager_Hieu\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "BLL\\UserBLL.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:03:01.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
